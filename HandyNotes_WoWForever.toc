@@ -18,6 +18,8 @@ handler\handler.xml
 constants.lua
 forever.lua
 
+shared\flightmaster.lua
+
 zones\AlteracMountains.lua
 zones\ArathiHighlands.lua
 zones\Ashenvale.lua
