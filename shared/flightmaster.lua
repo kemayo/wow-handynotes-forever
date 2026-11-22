@@ -55,7 +55,7 @@ if faction == "Alliance" then
 		[89404580] = {note="{npc:4319}"}, -- Thyssiana
 	}, FLIGHTMASTER)
 	ns.RegisterPoints(1447, { -- Azshara
- 	   [11807740] = {note="{npc:12577}"}, -- Jarrodenus
+		[11807740] = {note="{npc:12577}"}, -- Jarrodenus
 	}, FLIGHTMASTER)
 	ns.RegisterPoints(1431, { -- Duskwood
 		[77404440] = {note="{npc:2409}"}, -- Felicia Maline

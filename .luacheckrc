@@ -17,4 +17,7 @@ ignore = {
 read_globals = {
     "BAG_FILTER_JUNK",
     "GLYPHS",
+    "MINIMAP_TRACKING_FLIGHTMASTER",
+    "TUTORIAL_TITLE35",
+    "UnitFactionGroup",
 }
