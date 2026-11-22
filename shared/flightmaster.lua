@@ -10,7 +10,7 @@ local FM = ns.nodeMaker{
 local FLIGHTMASTER = FM{}
 if faction == "Alliance" then
 	ns.RegisterPoints(1453, { -- Stormwind City
-		[66006260] = {note="{npc:352}"}, -- Dungar Longdrink
+		[71297222] = {note="{npc:352}"}, -- Dungar Longdrink
 	}, FM{translate={[1429]=true}})
 	ns.RegisterPoints(1427, { -- Searing Gorge
 		[37803040] = {note="{npc:2941}"}, -- Lanie Reed
